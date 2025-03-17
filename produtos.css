@@ -28,6 +28,11 @@ nav a {
   text-decoration: none:
 }
 
+nav a: hover {
+color: #53a737
+  text decoration
+}
+
 .produtos{
 widht: 940px;
   margin: 0 auto;
