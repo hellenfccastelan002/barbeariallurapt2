@@ -30,7 +30,7 @@ nav a {
 
 nav a: hover {
 color: #53a737
-  text decoration
+  text decoration:underline;
 }
 
 .produtos{
