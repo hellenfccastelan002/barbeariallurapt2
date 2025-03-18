@@ -50,6 +50,18 @@ display: inline-block;
   border-radius: 10px;
 }
 
+.produtos li: hover{
+border-color: #8cb5e5
+}
+
+  .produtos li: active{
+border-color: red;
+  }
+
+  .produtor li: hover h2{
+font-size: 34px;
+  }
+  
 .produtos h2{
 font-size: 30px;
   font-weight: bold;
