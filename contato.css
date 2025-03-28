@@ -49,5 +49,12 @@ margin: 20px 0 40px;
 }
 
 thead{
+background: #6A5ACD;
+  color: #87CEEB;
+  font-wight: bold;
+}
 
+td, th{
+border: 1px solid
+}
 }
