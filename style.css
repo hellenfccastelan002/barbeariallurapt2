@@ -97,3 +97,21 @@ content: "⭐";
 	width: 500px;
 	margin: 1em auto;
 }
+
+@media screen and(max-width: 480px){
+	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+		width: auto;
+	}
+
+	h1{
+		text-align: center;
+	}
+
+	nav{
+		position: static;
+	}
+
+	.lista-beneficios, .imagens-beneficios{
+		width: 100%;
+	}
+}
